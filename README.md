@@ -15,4 +15,10 @@ The analysis demonstrates Spark’s distributed processing and DAG execution whi
 
 ## Dataset
 
-The project uses the **NYC Yellow Taxi Trip Records** dataset for 2024 and 2025.
+The original NYC Taxi dataset was downloaded from the NYC TLC website.
+
+Dataset source: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+Raw Data Size: 29.66 GB Working Data Size: 12.93 GB Processed Data Size: 4.96 GB
+
+The raw dataset is not stored in GitHub because it exceeds the platform's file size limits.
